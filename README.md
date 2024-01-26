@@ -81,6 +81,8 @@ $$ F1 \ Score = \frac{2}{\frac{1}{Precison}+\frac{1}{Recall}}=2 \ ⨉\frac{Preci
 
 - Considers both Precision and Recall <br> Precision과 Recall의 조화평균 평균 ( Best Score = 1.0 )
 
+<br>
+
 - 테스트 데이터 분할
 <p align='center'><img src="assets/src02.PNG" width="420"></p>
 
