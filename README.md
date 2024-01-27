@@ -61,7 +61,7 @@ data
 **test data**
 - test / images: 결함/정상 포함 이미지(9,100장)
 
-<p align='center'><img src="assets/src03.PNG" width="540"></p>
+<p align='center'><img src="assets/src03.png" width="540"></p>
 
 <br>
 
@@ -82,14 +82,14 @@ $$ F1 \ Score = \frac{2}{\frac{1}{Precison} + \frac{1}{Recall}} = 2 \ ⨉ \ \fra
 
 <br>
 
-<p align='center'><img src="assets/src01.PNG" width="540"></p>
+<p align='center'><img src="assets/src01.png" width="540"></p>
 
 - Considers both Precision and Recall, Precision과 Recall의 조화평균 평균 ( Best Score = 1.0 )
 
 <br>
 
 - 테스트 데이터 분할
-<p align='center'><img src="assets/src02.PNG" width="420"></p>
+<p align='center'><img src="assets/src02.png" width="420"></p>
 
 <br>
 
