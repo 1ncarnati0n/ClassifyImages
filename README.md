@@ -240,7 +240,6 @@ Train F1: 1.0
 Val F1: 1.0
 - - - - - - - - - - -
 - - - - - - - - - - -
-- - - - - - - - - - -
 ```
 
 <p align='center'><img src="assets/fig09.png" width="720"></p>
