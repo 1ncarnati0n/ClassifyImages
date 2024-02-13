@@ -165,8 +165,8 @@ kaggle과 같은 경진대회에서 널이 사용되는 Backbone 모델 중 **"E
 
 <p align='center'><img src="assets/fig08.png" width="420"></p>
 
-데이터 증강을 통해 class imbalance를 문제를 해결하고, efficientNetb5 을 백본$^{\textrm{Backbone}}$ 으로 전이학습을 진행하여 지표들을 확인해본 결과. <br>
-(옵티마이저는 adamW 사용, 손실함수는 Binary Cross Entropy Loss 사용)
+데이터 증강을 통해 class imbalance를 문제를 해결하고, efficientNetb5 을 백본Backbone으로 전이학습을 진행하여 지표들을 확인해본 결과. <br>
+(옵티마이저는 AdamW 사용, 손실함수는 Binary Cross Entropy Loss 사용)
 
 첫번째 에폭에도 높은 성을을 보여주었고 10번째 에폭에선 train 데이터셋과 valid 데이터셋 안의 모든 이미지를 정확하게 분류해낸 만점도 기록했습니다.
 
