@@ -104,7 +104,7 @@ $$ F1 \ Score = \frac{2}{\frac{1}{Precison} + \frac{1}{Recall}} = 2 \ ⨉ \ \fra
 
 <p align='center'><img src="assets/fig03.png" width="720"></p>
 
-accuracy 점수는 높게나오나 평가지표인 F1 Score는 0.50을 넘지 못하며 학습이 제데로 이루어지지 않는 것으로 확인했습니다.
+accuracy 점수는 높게나오나 평가지표인 F1 Score는 0.50을 넘지 못하며 학습이 제데로 이루어지지 않음을 확인했습니다.
 
 <br>
 
